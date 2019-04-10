@@ -1,5 +1,6 @@
 /*
- * Do project description here
+ * This project makes calls to multiple APIs to print a summary of the International Space Station's current location
+ * and some info on the people onboard.
  *
  * Alex Banh, HCDE 440 Spring 2019
 */
